@@ -1,1 +1,5 @@
-https://user-images.githubusercontent.com/35142168/161161921-f4788bc4-91a1-408e-880b-7649576fd1f7.mp4
+# Responsive Side-Navbar Layout
+---
+### [Click me to view the Layout](https://harshil2120.github.io/Basic-Front-End-Repository/Responsive-SideNavbar/index.html)
+---
+![spacex-navbar](https://user-images.githubusercontent.com/35142168/161699540-dd7157f0-23d8-4350-9b9b-dbbddf2a7e8a.gif)
